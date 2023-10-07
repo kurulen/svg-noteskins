@@ -1,2 +1,3 @@
-# svg-noteskins
-Flattened SVG / FIG versions of 3d StepMania noteskins.
+Noteskin list:
+ - CF_ALLOY (from https://github.com/Pete-Lawrence/Peters-Noteskins/tree/main/SM5/Completed/CF_ALLOY)
+ - More to come (request any 3D 'skins on the issue tracker)
